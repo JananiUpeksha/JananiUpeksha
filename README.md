@@ -1,6 +1,6 @@
 <h1 align="center">Welcome To My Github Profile</h1>
 <p align="center">
-   <img src="https://github.com/JananiUpeksha/JananiUpeksha/blob/main/wall.png" alt="Janani Upeksha" style="width: 100%; height: auto;" />
+   <img src="https://github.com/JananiUpeksha/JananiUpeksha/blob/main/wallpaper.png" alt="Janani Upeksha" style="width: 100%; height: auto;" />
 </p>
 
 👋 Hi there! I'm a passionate software engineering student at IJSE, where I’m honing my skills in coding, problem-solving, and software development.I love exploring new technologies and contributing to open-source projects. My interests include web development, mobile apps, and machine learning.I’m dedicated to continuous learning and always eager to tackle new challenges. Let’s connect and build something amazing together! Always open to collaboration and new ideas. Feel free to reach out!
